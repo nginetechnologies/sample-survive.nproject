@@ -1,0 +1,1543 @@
+{
+    "00da4bc0-1fa6-c5cf-1e6e-047d279cbe7d": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Survival.scene.nasset/Bottle.mesh.nasset/Bottle Survival.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "a6d102cd-777f-bf5d-533f-051b6b684b18",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "0219e639-dc35-a0bc-7b20-49c0b84cf8b5": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Survival.scene.nasset/Floor Old.mesh.nasset/Floor Old Survival.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "a6d102cd-777f-bf5d-533f-051b6b684b18",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "0294f501-4d03-9c6d-21ca-813b3abb15ee": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Survival.scene.nasset/Campfire Pit.mesh.nasset/Campfire Pit Survival.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "a6d102cd-777f-bf5d-533f-051b6b684b18",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "04493934-9c2e-3bc1-b4f5-27530bd7f403": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Survival.scene.nasset/Structure Metal Roof.mesh.nasset/Structure Metal Roof.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "0538476e-48ac-18c9-7c32-826d1e70f455": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Objects/Textures/T_Survival_D.tex.nasset"
+    },
+    "070d06bb-73dd-0878-6273-d17407a0f616": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Survival.scene.nasset/Bottle Large.mesh.nasset/Bottle Large.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "0bf203be-f2e1-17fe-dcf3-4026a06fc543": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Survival.scene.nasset/Signpost.mesh.nasset/Signpost.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "0c09c147-a8bd-efcc-3458-808fd1c57ff1": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Survival.scene.nasset/Barrel Open.mesh.nasset/Barrel Open Survival.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "a6d102cd-777f-bf5d-533f-051b6b684b18",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "0e2905c8-d356-ab89-4f9f-4123334bfc68": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Survival.scene.nasset/Metal Panel Narrow.mesh.nasset/Metal Panel Narrow.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "1134e7b3-7843-8f16-d7fa-d02d5ed06342": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Survival.scene.nasset/Tool Hammer Upgraded.mesh.nasset/Tool Hammer Upgraded.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "12cbf7ee-a290-0662-a52d-0d7f7979cda7": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Survival.scene.nasset/Bottle.mesh.nasset/Bottle.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "1322d6c8-1eb6-1c90-02de-8929450ccf8b": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Survival.scene.nasset/Signpost Single.mesh.nasset/Signpost Single.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "133e0934-c533-2db1-2857-1f1e381c8499": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Survival.scene.nasset/Tree Autumn Tall.mesh.nasset/Tree Autumn Tall Survival.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "a6d102cd-777f-bf5d-533f-051b6b684b18",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "1ac105da-f574-8fa8-8c15-ff361f72ceec": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Survival.scene.nasset/Tool Shovel Upgraded.mesh.nasset/Tool Shovel Upgraded Survival.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "a6d102cd-777f-bf5d-533f-051b6b684b18",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "1b0d9973-7f99-e65c-a260-cfc31f7d3826": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Survival.scene.nasset/Tree Log.mesh.nasset/Tree Log.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "1cdd8595-0725-bb54-d6f1-a580c201d0cf": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Survival.scene.nasset/Rock 2.mesh.nasset/Rock 2 Survival.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "a6d102cd-777f-bf5d-533f-051b6b684b18",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "20ff3bb9-cca8-3b84-0410-e661291415a9": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Survival.scene.nasset/Box.mesh.nasset/Box Survival.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "a6d102cd-777f-bf5d-533f-051b6b684b18",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "2154d908-0074-1325-d734-fc02ab2ae734": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Survival.scene.nasset/Chest.mesh.nasset/Chest Survival.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "a6d102cd-777f-bf5d-533f-051b6b684b18",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "21fafda6-6335-b7b6-f8f8-94eedd6ee228": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Survival.scene.nasset/Patch Grass.mesh.nasset/Patch Grass.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "2234ad36-1eae-cd5a-a2da-c09333ca51f9": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Survival.scene.nasset/Fence Fortified.mesh.nasset/Fence Fortified Survival.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "a6d102cd-777f-bf5d-533f-051b6b684b18",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "228d105d-8cba-83c6-7cf8-e25e25a9133c": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Survival.scene.nasset/Tool Shovel Upgraded.mesh.nasset/Tool Shovel Upgraded.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "22a99b39-a889-9d77-ed65-98c4d5bf970e": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Survival.scene.nasset/Bedroll Frame.mesh.nasset/Bedroll Frame Survival.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "a6d102cd-777f-bf5d-533f-051b6b684b18",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "22b237e0-0faf-7b3f-2ae3-8c032af72ea8": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Survival.scene.nasset/Resource Stone.mesh.nasset/Resource Stone.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "22e3165b-4044-d365-ddc8-673f7c2f889c": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Survival.scene.nasset/Floor Hole.mesh.nasset/Floor Hole.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "23216589-12eb-f8f8-e679-b3897fa2f7de": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Survival.scene.nasset/Box Large.mesh.nasset/Box Large Survival.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "a6d102cd-777f-bf5d-533f-051b6b684b18",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "238f5825-e586-fbbe-69b0-190817b09281": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Survival.scene.nasset/Campfire Fishing Stand.mesh.nasset/Campfire Fishing Stand Survival.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "a6d102cd-777f-bf5d-533f-051b6b684b18",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "24263802-c4e5-d5fc-d867-326ea7f931dc": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Thumbnail/Survive_Thumb.tex.nasset"
+    },
+    "2437fc44-39cb-272d-56fe-274972b24abe": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Survival.scene.nasset/Rock 3.mesh.nasset/Rock 3 Survival.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "a6d102cd-777f-bf5d-533f-051b6b684b18",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "2b7b6131-6771-063a-5536-5816c02233c1": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Survival.scene.nasset/Workbench Grind.mesh.nasset/Workbench Grind.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "2d5b180c-21c0-025b-31d5-73cb8bf86afb": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Survival.scene.nasset/Tree Autumn.mesh.nasset/Tree Autumn.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "2d64acba-7631-5360-8015-56a3dbb092f1": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Survival.scene.nasset/Fish.mesh.nasset/Fish Survival.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "a6d102cd-777f-bf5d-533f-051b6b684b18",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "30424d2f-460c-1f50-b3db-aa3de1043e30": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Survival.scene.nasset/Chest.mesh.nasset/Chest.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "30f70df1-cc8c-b2b4-f654-416bce3aa012": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Survival.scene.nasset/Fish Large.mesh.nasset/Fish Large Survival.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "a6d102cd-777f-bf5d-533f-051b6b684b18",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "31044624-1c5f-01c1-d9a0-d9d9b46e7af8": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Survival.scene.nasset/Grass Large.mesh.nasset/Grass Large Survival.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "a6d102cd-777f-bf5d-533f-051b6b684b18",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "31894c27-dd73-18eb-eab6-c348492eba7d": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Survival.scene.nasset/Rock 1.mesh.nasset/Rock 1.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "31ac28b1-1032-ac41-cf03-d2efb9bca6c6": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Survival.scene.nasset/Tree.mesh.nasset/Tree Survival.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "a6d102cd-777f-bf5d-533f-051b6b684b18",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "33ac03f8-9a52-b469-41c3-d4eb34881df6": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Survival.scene.nasset/Tool Hoe.mesh.nasset/Tool Hoe Survival.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "a6d102cd-777f-bf5d-533f-051b6b684b18",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "35b51b3b-22e1-db90-7afb-1149af1fd70e": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Survival.scene.nasset/Rock Flat Grass.mesh.nasset/Rock Flat Grass.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "36448675-5628-a257-61d0-fc2ae4bf4f24": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Survival.scene.nasset/Structure Floor.mesh.nasset/Structure Floor Survival.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "a6d102cd-777f-bf5d-533f-051b6b684b18",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "37edd27d-6b82-9716-2d1e-59a61a847eb1": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Survival.scene.nasset/Tree Log Small.mesh.nasset/Tree Log Small Survival.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "a6d102cd-777f-bf5d-533f-051b6b684b18",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "392d3930-b916-64f6-ab76-cf3a1e769152": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Survival.scene.nasset/Box Open.mesh.nasset/Box Open Survival.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "a6d102cd-777f-bf5d-533f-051b6b684b18",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "3b2dd9d7-9a98-9231-7ab4-0e1ee05a1717": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Survival.scene.nasset/Tool Hammer.mesh.nasset/Tool Hammer.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "3ec0d42f-3294-27dd-b2ea-040ecd44b97c": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Survival.scene.nasset/Tree Trunk.mesh.nasset/Tree Trunk Survival.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "a6d102cd-777f-bf5d-533f-051b6b684b18",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "40763807-791e-3531-ea87-8095c6a11cd7": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Survival.scene.nasset/Workbench Anvil.mesh.nasset/Workbench Anvil.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "41cd3343-4261-774f-4a0e-9c2643307e95": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Survival.scene.nasset/Signpost.mesh.nasset/Signpost Survival.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "a6d102cd-777f-bf5d-533f-051b6b684b18",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "425bfa6e-6a3e-962e-71b9-2c0b47297a93": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Survival.scene.nasset/Resource Stone.mesh.nasset/Resource Stone Survival.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "a6d102cd-777f-bf5d-533f-051b6b684b18",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "452a1e00-e5e2-a852-b63f-d701980bedff": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Survival.scene.nasset/Metal Panel Screws Narrow.mesh.nasset/Metal Panel Screws Narrow.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "481a388e-3a58-5782-fe14-2f111e9e5bf4": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Survival.scene.nasset/Tool Hoe.mesh.nasset/Tool Hoe.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "485ce13b-ac76-9384-d8e6-35662e4a5cf6": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Survival.scene.nasset/Structure Canvas.mesh.nasset/Structure Canvas Survival.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "a6d102cd-777f-bf5d-533f-051b6b684b18",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "49d78948-e15d-7456-4482-90beaa93a335": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Survival.scene.nasset/Structure.mesh.nasset/Structure.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "49e2aadb-312c-727b-2651-1b44880889b0": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Survival.scene.nasset/Resource Stone Large.mesh.nasset/Resource Stone Large Survival.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "a6d102cd-777f-bf5d-533f-051b6b684b18",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "49f9d5d8-3b0e-41a5-2c8f-af44e867b951": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Survival.scene.nasset/Metal Panel Narrow.mesh.nasset/Metal Panel Narrow Survival.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "a6d102cd-777f-bf5d-533f-051b6b684b18",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "4b8523d6-c0c4-3776-ef68-4716bfd33252": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Survival.scene.nasset/Tool Hoe Upgraded.mesh.nasset/Tool Hoe Upgraded.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "4be5b468-12d7-1d7e-0532-77d50926b142": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Survival.scene.nasset/Tent Canvas.mesh.nasset/Tent Canvas.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "4d1d3efe-bb7c-c3db-1f1f-58548476e95e": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Survival.scene.nasset/Tree Autumn Trunk.mesh.nasset/Tree Autumn Trunk.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "52413828-8580-b7e3-738a-11924279e796": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Survival.scene.nasset/Structure Metal Roof.mesh.nasset/Structure Metal Roof Survival.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "a6d102cd-777f-bf5d-533f-051b6b684b18",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "52596f72-8abf-89dd-2891-60980e5be2ad": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Survival.scene.nasset/Rock Sand 2.mesh.nasset/Rock Sand 2 Survival.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "a6d102cd-777f-bf5d-533f-051b6b684b18",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "536b1b6e-a6d3-1134-b368-efd5c5db98bf": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Survival.scene.nasset/Metal Panel Screws Half.mesh.nasset/Metal Panel Screws Half Survival.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "a6d102cd-777f-bf5d-533f-051b6b684b18",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "56ad7b52-cbbb-1d92-7a6e-049a4ed002c9": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Survival.scene.nasset/Resource Wood.mesh.nasset/Resource Wood.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "586ea618-d7f4-2786-3684-08bf998d1e80": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Survival.scene.nasset/Rock Flat.mesh.nasset/Rock Flat.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "589f2920-c2e0-224f-a5fd-fa5dd55f2012": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Survival.scene.nasset/Floor Hole.mesh.nasset/Floor Hole Survival.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "a6d102cd-777f-bf5d-533f-051b6b684b18",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "58ba0e65-0985-bc13-5f94-cd7e2635e789": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Survival.scene.nasset/Structure Roof.mesh.nasset/Structure Roof Survival.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "a6d102cd-777f-bf5d-533f-051b6b684b18",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "5f93f743-6ea5-2dee-e6ee-21cfdf3274a0": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Survival.scene.nasset/Tree.mesh.nasset/Tree.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "5fd3f4f7-0be5-682d-7e64-17efb47d1de3": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Survival.scene.nasset/Fence Doorway.mesh.nasset/Fence Doorway.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "60aad13b-4c00-a0d7-c505-cc88a894c143": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Survival.scene.nasset/Structure Floor.mesh.nasset/Structure Floor.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "617a6497-1239-0a58-80f0-87702f56c9ea": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Survival.scene.nasset/Campfire Stand.mesh.nasset/Campfire Stand Survival.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "a6d102cd-777f-bf5d-533f-051b6b684b18",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "61e9ca34-54ee-5445-2cf8-9f5137b9fa8e": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Survival.scene.nasset/Resource Planks.mesh.nasset/Resource Planks.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "62771d9a-4683-61ea-db17-3176a9b8ab38": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Survival.scene.nasset/Campfire Pit.mesh.nasset/Campfire Pit.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "62878786-2c7e-672b-062f-5f5956d7e0d9": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Survival.scene.nasset/Workbench Grind.mesh.nasset/Workbench Grind Survival.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "a6d102cd-777f-bf5d-533f-051b6b684b18",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "629bc5bf-a5ef-b6c4-54fb-5275abed161b": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Survival.scene.nasset/Bedroll.mesh.nasset/Bedroll Survival.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "a6d102cd-777f-bf5d-533f-051b6b684b18",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "664e4a83-cce7-dcef-6505-e3b3c5055bee": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Survival.scene.nasset/Tent Canvas.mesh.nasset/Tent Canvas Survival.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "a6d102cd-777f-bf5d-533f-051b6b684b18",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "685b2231-b30a-687b-f5a0-eaa0145302ff": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Survival.scene.nasset/Fence Doorway.mesh.nasset/Fence Doorway Survival.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "a6d102cd-777f-bf5d-533f-051b6b684b18",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "6edfcd86-3512-3994-6ea3-5f21d3271586": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Survival.scene.nasset/Tree Tall.mesh.nasset/Tree Tall Survival.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "a6d102cd-777f-bf5d-533f-051b6b684b18",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "7100dca3-1632-19c2-164c-61084533bdda": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Survival.scene.nasset/Structure Metal Floor.mesh.nasset/Structure Metal Floor Survival.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "a6d102cd-777f-bf5d-533f-051b6b684b18",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "711e66ab-a330-dba5-a2c1-41171e64d2d0": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Survival.scene.nasset/Patch Grass Large.mesh.nasset/Patch Grass Large Survival.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "a6d102cd-777f-bf5d-533f-051b6b684b18",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "7242816b-32ee-8332-a72f-e30b80d665a0": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Survival.scene.nasset/Fish Large.mesh.nasset/Fish Large.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "730f69c1-137d-8fbd-ceb9-bab0770da36b": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Survival.scene.nasset/Tree Log Small.mesh.nasset/Tree Log Small.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "73be32c6-a0dc-a157-b4e9-e2c51a28e7bb": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Survival.scene.nasset/Signpost Single.mesh.nasset/Signpost Single Survival.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "a6d102cd-777f-bf5d-533f-051b6b684b18",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "7628dc97-3046-d03a-b5a2-0679403353a7": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Survival.scene.nasset/Tool Hammer.mesh.nasset/Tool Hammer Survival.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "a6d102cd-777f-bf5d-533f-051b6b684b18",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "763de56d-762c-d64e-98ce-c6945df842be": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Survival.scene.nasset/Tool Pickaxe Upgraded.mesh.nasset/Tool Pickaxe Upgraded Survival.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "a6d102cd-777f-bf5d-533f-051b6b684b18",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "76ce24a1-672e-f663-8b8e-7778710349d3": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Survival.scene.nasset/Grass.mesh.nasset/Grass Survival.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "a6d102cd-777f-bf5d-533f-051b6b684b18",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "7b9d3515-e70f-a0f6-1108-da36b9471522": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Survival.scene.nasset/Tool Pickaxe Upgraded.mesh.nasset/Tool Pickaxe Upgraded.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "7ca3c5c5-ecec-11e4-2d9b-9fa47ab395bc": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Survival.scene.nasset/Tree Autumn Trunk.mesh.nasset/Tree Autumn Trunk Survival.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "a6d102cd-777f-bf5d-533f-051b6b684b18",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "80a318bc-d490-312c-1fc4-e21599e4acef": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Survival.scene.nasset/Metal Panel Screws Half.mesh.nasset/Metal Panel Screws Half.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "811526cd-cbfd-78f9-8f99-e06bb69c0412": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Survival.scene.nasset/Structure Metal Wall.mesh.nasset/Structure Metal Wall Survival.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "a6d102cd-777f-bf5d-533f-051b6b684b18",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "8186ab0f-2c33-2911-d6b8-4f14b5c1e3a2": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Survival.scene.nasset/Bedroll Packed.mesh.nasset/Bedroll Packed.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "82f6c05f-e85c-371f-aacc-67880c585299": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Survival.scene.nasset/Rock Flat Grass.mesh.nasset/Rock Flat Grass Survival.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "a6d102cd-777f-bf5d-533f-051b6b684b18",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "868c8baa-f33b-b6de-9183-95031c514813": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Survival.scene.nasset/Resource Stone Large.mesh.nasset/Resource Stone Large.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "86b07944-e5f6-037b-69e1-afc0d10e58f2": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Survival.scene.nasset/Floor.mesh.nasset/Floor Survival.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "a6d102cd-777f-bf5d-533f-051b6b684b18",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "86de4854-4f26-16ab-2aeb-3a10fc0bfde8": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Survival.scene.nasset/Floor.mesh.nasset/Floor.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "885bc957-7b4c-fac1-a675-8ac5505ad574": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Survival.scene.nasset/Tree Autumn Tall.mesh.nasset/Tree Autumn Tall.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "889d337f-fb26-fd0f-e189-91be24db4b8b": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Survival.scene.nasset/Bucket.mesh.nasset/Bucket Survival.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "a6d102cd-777f-bf5d-533f-051b6b684b18",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "8acf01a0-1ef5-a18c-a09e-001b46a8032f": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Survival.scene.nasset/Bucket.mesh.nasset/Bucket.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "8b8b2bab-17b5-8d95-6e56-8293f137f557": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Survival.scene.nasset/Workbench.mesh.nasset/Workbench Survival.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "a6d102cd-777f-bf5d-533f-051b6b684b18",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "8c45a69c-6a2a-a532-b1f3-f0a31006a355": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Survival.scene.nasset/Tool Axe.mesh.nasset/Tool Axe.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "8d5c0793-f17b-63c5-5207-b18a0bcf6aa8": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Survival.scene.nasset/Tent.mesh.nasset/Tent Survival.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "a6d102cd-777f-bf5d-533f-051b6b684b18",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "90b44cf9-94b6-4330-3464-236ec8e26358": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Survival.scene.nasset/Workbench.mesh.nasset/Workbench.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "924571a6-d047-eab5-f632-01eb6f2f1f06": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Survival.scene.nasset/Fish.mesh.nasset/Fish.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "9250cc13-6e87-ebc9-d3a1-9a94992034c6": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Survival.scene.nasset/Tool Hammer Upgraded.mesh.nasset/Tool Hammer Upgraded Survival.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "a6d102cd-777f-bf5d-533f-051b6b684b18",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "9370d3b6-2363-e359-cfd9-ee8fbc17124e": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Survival.scene.nasset/Metal Panel Screws.mesh.nasset/Metal Panel Screws.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "942bca1d-b124-3b3b-bb53-d2a84884b011": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Survival.scene.nasset/Patch Grass.mesh.nasset/Patch Grass Survival.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "a6d102cd-777f-bf5d-533f-051b6b684b18",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "96f80d9d-ddcb-d19d-88d3-dc1d83f2f5b0": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Survival.scene.nasset/Workbench Anvil.mesh.nasset/Workbench Anvil Survival.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "a6d102cd-777f-bf5d-533f-051b6b684b18",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "98d372d5-8863-67ba-4b04-31a345cc126d": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Survival.scene.nasset/Rock Sand 1.mesh.nasset/Rock Sand 1.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "9bb5eb4b-f695-5665-f42a-609e0e5b0c3e": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Survival.scene.nasset/Metal Panel.mesh.nasset/Metal Panel.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "9e450348-54d0-e347-c56b-567449c11e43": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Survival.scene.nasset/Box Open.mesh.nasset/Box Open.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "9ebe4d19-ebd2-cbed-00ef-e976ad0f8526": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Survival.scene.nasset/Tool Axe.mesh.nasset/Tool Axe Survival.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "a6d102cd-777f-bf5d-533f-051b6b684b18",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "a000c424-18e5-d0f2-f55d-3275f8b21414": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Survival.scene.nasset/Rock 3.mesh.nasset/Rock 3.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "a0f27df5-9b8b-abeb-b595-9b07fd7836ff": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Survival.scene.nasset/Tent Canvas Half.mesh.nasset/Tent Canvas Half.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "a1ca7329-6ef9-91bd-35bd-95bf50cb08ea": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Survival.scene.nasset/Floor Old.mesh.nasset/Floor Old.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "a4826e09-bfb6-b97c-2043-91d951a3bb0d": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Survival.scene.nasset/Rock Sand 3.mesh.nasset/Rock Sand 3 Survival.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "a6d102cd-777f-bf5d-533f-051b6b684b18",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "a65c090b-ea84-18af-7a61-1a6df65f0773": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Survival.scene.nasset/Tree Log.mesh.nasset/Tree Log Survival.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "a6d102cd-777f-bf5d-533f-051b6b684b18",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "a6d102cd-777f-bf5d-533f-051b6b684b18": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Objects/Material Instances/Survival.mtli.nasset",
+        "dependencies": [
+            "846a87e3-b738-4471-a336-bcac78e126b1",
+            "0538476e-48ac-18c9-7c32-826d1e70f455"
+        ]
+    },
+    "a71dba85-9d17-b485-296f-a5b11cf0b1a3": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Survival.scene.nasset/Structure Metal Wall.mesh.nasset/Structure Metal Wall.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "a73b9051-b3d2-868e-8dc1-647e2cd5988d": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Survival.scene.nasset/Tool Axe Upgraded.mesh.nasset/Tool Axe Upgraded.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "a7d8236e-d10b-0d49-d310-0007a4c9425c": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Survival.scene.nasset/Campfire Stand.mesh.nasset/Campfire Stand.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "a9500817-b91f-e4e0-1357-510dbf0409bf": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Survival.scene.nasset/Bedroll Packed.mesh.nasset/Bedroll Packed Survival.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "a6d102cd-777f-bf5d-533f-051b6b684b18",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "aabe4f21-470f-fb4f-a7be-07d5bb4082a0": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Survival.scene.nasset/Barrel.mesh.nasset/Barrel.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "ab1c2a4b-d9f8-df2a-7f29-6f330afab7cf": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Survival.scene.nasset/Bedroll Frame.mesh.nasset/Bedroll Frame.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "abca198f-0ba8-02e3-5c1d-45e3043d123c": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Survival.scene.nasset/Structure.mesh.nasset/Structure Survival.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "a6d102cd-777f-bf5d-533f-051b6b684b18",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "af25c740-b285-769f-9c39-4e8a6e42d2ba": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Survival.scene.nasset/Fence.mesh.nasset/Fence.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "b06a83be-55f1-6833-f10e-96477b6674e7": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Survival.scene.nasset/Rock Sand 1.mesh.nasset/Rock Sand 1 Survival.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "a6d102cd-777f-bf5d-533f-051b6b684b18",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "b16bcdcb-3037-fafe-72e7-de229ea12e80": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "path": "Assets/Objects/SC_Survival.scene.nasset/SC_Survival.scene.nasset"
+    },
+    "b72376bf-bf1b-4469-d446-9bf835801128": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Survival.scene.nasset/Tool Shovel.mesh.nasset/Tool Shovel.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "ba49afe4-fcf9-4227-4d80-7aef329ddb6c": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Survival.scene.nasset/Bedroll.mesh.nasset/Bedroll.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "bf45483b-20cc-9d88-6488-477e18a78023": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Survival.scene.nasset/Tool Shovel.mesh.nasset/Tool Shovel Survival.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "a6d102cd-777f-bf5d-533f-051b6b684b18",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "bf919941-5260-c444-8316-baf00d329eea": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Survival.scene.nasset/Metal Panel.mesh.nasset/Metal Panel Survival.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "a6d102cd-777f-bf5d-533f-051b6b684b18",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "bfec0daf-8599-d0d7-1927-e9431e8312ce": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Survival.scene.nasset/Fence.mesh.nasset/Fence Survival.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "a6d102cd-777f-bf5d-533f-051b6b684b18",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "c0b2ba1d-806d-8175-98f2-91bd0afb5d11": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Survival.scene.nasset/Patch Grass Large.mesh.nasset/Patch Grass Large.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "c19506c2-fafc-f43f-b481-cb3913775357": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Survival.scene.nasset/Rock 2.mesh.nasset/Rock 2.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "c1fc04ea-71f9-ed16-e5e2-3821a9bccc48": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Survival.scene.nasset/Tool Pickaxe.mesh.nasset/Tool Pickaxe Survival.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "a6d102cd-777f-bf5d-533f-051b6b684b18",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "c291582f-5eed-23c9-6b53-c34613d1b538": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Survival.scene.nasset/Campfire Fishing Stand.mesh.nasset/Campfire Fishing Stand.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "c3a088e8-fc9b-beeb-17b5-2a19d9b05ba2": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Survival.scene.nasset/Tree Autumn.mesh.nasset/Tree Autumn Survival.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "a6d102cd-777f-bf5d-533f-051b6b684b18",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "c4aa4209-dacf-4d7b-c4c5-eeb236e3e7bd": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Survival.scene.nasset/Box Large Open.mesh.nasset/Box Large Open.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "cb70e08f-aa66-4f12-fc13-73ecf5b12203": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Survival.scene.nasset/Barrel Open.mesh.nasset/Barrel Open.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "ce4b0248-c3bd-2f45-1286-4ff9065ac4d5": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Survival.scene.nasset/Tree Tall.mesh.nasset/Tree Tall.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "ceea98c4-dae0-26aa-a1e0-ae15e3225542": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Survival.scene.nasset/Tent Canvas Half.mesh.nasset/Tent Canvas Half Survival.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "a6d102cd-777f-bf5d-533f-051b6b684b18",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "cf367364-e90d-cce5-53a1-652a88e2a148": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Survival.scene.nasset/Box Large Open.mesh.nasset/Box Large Open Survival.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "a6d102cd-777f-bf5d-533f-051b6b684b18",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "cfea37c7-1b74-2787-705d-7b7b84ee75f5": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Survival.scene.nasset/Rock 1.mesh.nasset/Rock 1 Survival.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "a6d102cd-777f-bf5d-533f-051b6b684b18",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "d053b370-5115-c502-3de3-c67a360b4019": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Survival.scene.nasset/Fence Fortified.mesh.nasset/Fence Fortified.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "d0aaee49-efb0-5ce0-66a8-556c22d37557": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Survival.scene.nasset/Rock Sand 3.mesh.nasset/Rock Sand 3.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "d66af3d1-5103-876b-174f-9fcb200da0b5": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Survival.scene.nasset/Structure Metal Doorway.mesh.nasset/Structure Metal Doorway.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "d67d4c67-d6e7-4349-b721-defdba48dd63": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Survival.scene.nasset/Box.mesh.nasset/Box.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "d6b19409-f7ca-b349-3b4e-5f3efe3347e3": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Survival.scene.nasset/Structure Metal.mesh.nasset/Structure Metal Survival.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "a6d102cd-777f-bf5d-533f-051b6b684b18",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "dd26e633-17c0-4bfe-e4d9-370d06bd1c64": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Survival.scene.nasset/Tree Trunk.mesh.nasset/Tree Trunk.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "dfebfd2e-4e08-86fe-f914-c87b3834332e": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Survival.scene.nasset/Bottle Large.mesh.nasset/Bottle Large Survival.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "a6d102cd-777f-bf5d-533f-051b6b684b18",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "e1a3e72a-57da-038a-5cbb-10d9aa7fb328": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Survival.scene.nasset/Tent.mesh.nasset/Tent.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "e29b2858-e24f-0734-9005-22b05801cf96": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Survival.scene.nasset/Metal Panel Screws.mesh.nasset/Metal Panel Screws Survival.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "a6d102cd-777f-bf5d-533f-051b6b684b18",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "e2cb7e06-d715-5934-4511-b0085562d09d": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Survival.scene.nasset/Tool Axe Upgraded.mesh.nasset/Tool Axe Upgraded Survival.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "a6d102cd-777f-bf5d-533f-051b6b684b18",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "e32fde9b-256b-e246-ae9a-29384137ee51": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Survival.scene.nasset/Structure Metal Floor.mesh.nasset/Structure Metal Floor.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "e3456bc6-dba3-12f5-404e-5c3b3f4981ed": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Survival.scene.nasset/Resource Wood.mesh.nasset/Resource Wood Survival.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "a6d102cd-777f-bf5d-533f-051b6b684b18",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "ef459480-6a55-3e24-0d70-2b3668795182": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Survival.scene.nasset/Box Large.mesh.nasset/Box Large.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "f1927371-aa57-afbb-df33-743530aaa7da": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Survival.scene.nasset/Metal Panel Screws Narrow.mesh.nasset/Metal Panel Screws Narrow Survival.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "a6d102cd-777f-bf5d-533f-051b6b684b18",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "f32b422e-57fe-8872-a7c8-bfbd61f98911": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Survival.scene.nasset/Rock Sand 2.mesh.nasset/Rock Sand 2.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "f47ee29b-2aee-b993-f355-1a129ccd61e5": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Survival.scene.nasset/Structure Metal.mesh.nasset/Structure Metal.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "f6314d52-3002-c4c6-38f7-9f390a91d6bd": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Survival.scene.nasset/Structure Metal Doorway.mesh.nasset/Structure Metal Doorway Survival.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "a6d102cd-777f-bf5d-533f-051b6b684b18",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "f834b04a-3543-27b3-7e3b-1922419da55f": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Survival.scene.nasset/Resource Planks.mesh.nasset/Resource Planks Survival.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "a6d102cd-777f-bf5d-533f-051b6b684b18",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "fa201d74-1b2e-a770-c71d-3490ecc83baa": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Survival.scene.nasset/Tool Hoe Upgraded.mesh.nasset/Tool Hoe Upgraded Survival.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "a6d102cd-777f-bf5d-533f-051b6b684b18",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "fac3f2c0-867a-c65d-b26b-ad47e649f850": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Survival.scene.nasset/Tool Pickaxe.mesh.nasset/Tool Pickaxe.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "faebb61e-eca0-5afc-f899-b82661894a28": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Survival.scene.nasset/Grass Large.mesh.nasset/Grass Large.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "fb115e0c-7807-8603-2e06-94f9f133873d": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Survival.scene.nasset/Structure Canvas.mesh.nasset/Structure Canvas.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "fb33117b-561b-cea5-dbfe-1c16da15a229": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Survival.scene.nasset/Barrel.mesh.nasset/Barrel Survival.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "a6d102cd-777f-bf5d-533f-051b6b684b18",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "fbb22e9f-62ea-0602-53ce-c54d85518f1b": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Survival.scene.nasset/Grass.mesh.nasset/Grass.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "fbdd596a-3eba-3ced-b160-fbf7ae54b2af": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Survival.scene.nasset/Rock Flat.mesh.nasset/Rock Flat Survival.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "a6d102cd-777f-bf5d-533f-051b6b684b18",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "ffe6d301-7f7e-faab-acb4-7eff321085b5": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Survival.scene.nasset/Structure Roof.mesh.nasset/Structure Roof.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "guid": "b84f542d-7437-2ab7-8e06-86b440728a00"
+}
